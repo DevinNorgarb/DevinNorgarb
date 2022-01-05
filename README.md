@@ -3,3 +3,7 @@
 
 
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
