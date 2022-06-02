@@ -5,19 +5,19 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C595%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 432 Contributions in the Year 2022
+> 🏆 433 Contributions in the Year 2022
  > 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 109 Public Repositories 
+> 📜 110 Public Repositories 
  > 
 > 🔑 26 Private Repositories  
  > 
@@ -50,18 +50,18 @@ Sunday       233 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Other                    4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.25% 
-Vue.js                   1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-PHP                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
-C                        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.06%
+Other                    4 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.58% 
+Vue.js                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
+PHP                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
+Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+C                        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       ██████████████░░░░░░░░░░░   59.46% 
-PhpStorm                 3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.54%
+VS Code                  5 hrs 16 mins       ██████████████░░░░░░░░░░░   59.16% 
+PhpStorm                 3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   40.84%
 
 💻 Operating System: 
-Linux                    8 hrs 59 mins       █████████████████████████   100.0%
+Linux                    8 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,6 +82,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 18:54:10 UTC
+ Last Updated on 02/06/2022 18:49:46 UTC
 <!--END_SECTION:waka-->
 
