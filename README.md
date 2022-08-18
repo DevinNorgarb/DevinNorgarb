@@ -5,13 +5,13 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C235%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C359%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 857 Contributions in the Year 2022
+> 🏆 860 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -50,18 +50,18 @@ Sunday       237 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-PHP                      2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.65% 
-SmartyConfig             1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
-Vue.js                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+PHP                      2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.03% 
+SmartyConfig             1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Vue.js                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 🔥 Editors: 
-PhpStorm                 5 hrs 32 mins       █████████████████████████   100.0% 
+PhpStorm                 6 hrs 12 mins       █████████████████████████   100.0% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      5 hrs 32 mins       █████████████████████████   100.0%
+Mac                      6 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,6 +82,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 18:53:18 UTC
+ Last Updated on 18/08/2022 18:54:48 UTC
 <!--END_SECTION:waka-->
 
