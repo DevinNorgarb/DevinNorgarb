@@ -5,13 +5,13 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C359%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 860 Contributions in the Year 2022
+> 🏆 861 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -50,18 +50,17 @@ Sunday       237 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-PHP                      2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.03% 
-SmartyConfig             1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Vue.js                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+Vue.js                   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.21% 
+SmartyConfig             1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13% 
+.env file                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
+Docker                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.44%
 
 🔥 Editors: 
-PhpStorm                 6 hrs 12 mins       █████████████████████████   100.0% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+PhpStorm                 4 hrs 42 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 12 mins       █████████████████████████   100.0%
+Mac                      4 hrs 42 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,6 +81,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 18:54:48 UTC
+ Last Updated on 19/08/2022 18:55:02 UTC
 <!--END_SECTION:waka-->
 
