@@ -5,7 +5,7 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C730%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -50,17 +50,17 @@ Sunday       237 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Vue.js                   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.21% 
-SmartyConfig             1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13% 
-.env file                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-Docker                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.98% 
-YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.44%
+Vue.js                   2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.79% 
+PHP                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
+JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
+SmartyConfig             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
+.env file                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.93%
 
 🔥 Editors: 
-PhpStorm                 4 hrs 42 mins       █████████████████████████   100.0%
+PhpStorm                 6 hrs 24 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 42 mins       █████████████████████████   100.0%
+Mac                      6 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,6 +81,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 18:55:02 UTC
+ Last Updated on 20/08/2022 18:47:45 UTC
 <!--END_SECTION:waka-->
 
