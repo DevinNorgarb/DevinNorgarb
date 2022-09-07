@@ -5,13 +5,13 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C748%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C750%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 977 Contributions in the Year 2022
+> 🏆 979 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -50,17 +50,17 @@ Sunday       200 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-PHP                      4 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.44% 
-YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
-Vue.js                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
+PHP                      4 hrs 50 mins       ███████████████░░░░░░░░░░   61.65% 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Docker                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
+Vue.js                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 🔥 Editors: 
-PhpStorm                 9 hrs 36 mins       █████████████████████████   100.0%
+PhpStorm                 7 hrs 51 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      9 hrs 36 mins       █████████████████████████   100.0%
+Mac                      7 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,6 +81,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 18:54:47 UTC
+ Last Updated on 07/09/2022 18:53:23 UTC
 <!--END_SECTION:waka-->
 
