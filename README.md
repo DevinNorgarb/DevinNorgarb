@@ -5,7 +5,7 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C761%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C762%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -50,17 +50,17 @@ Sunday       159 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-PHP                      1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   32.03% 
-Vue.js                   1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.34% 
-Docker                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.63% 
-Dockerfile               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56%
+Vue.js                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.65% 
+Docker                   1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.6% 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
+Dockerfile               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.14%
 
 🔥 Editors: 
-PhpStorm                 4 hrs 50 mins       █████████████████████████   100.0%
+PhpStorm                 3 hrs 36 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      4 hrs 50 mins       █████████████████████████   100.0%
+Mac                      3 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,6 +81,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 18:56:33 UTC
+ Last Updated on 21/09/2022 19:03:39 UTC
 <!--END_SECTION:waka-->
 
