@@ -5,13 +5,13 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C775%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C778%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,069 Contributions in the Year 2022
+> 🏆 1,082 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -38,6 +38,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/09/2022 19:02:15 UTC
+ Last Updated on 30/09/2022 19:01:49 UTC
 <!--END_SECTION:waka-->
 
