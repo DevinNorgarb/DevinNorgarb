@@ -5,13 +5,13 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C790%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C793%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,114 Contributions in the Year 2022
+> 🏆 1,115 Contributions in the Year 2022
  > 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
@@ -21,6 +21,49 @@
  > 
 > 🔑 31 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    158 commits    █████░░░░░░░░░░░░░░░░░░░░   21.73% 
+🌆 Daytime    272 commits    █████████░░░░░░░░░░░░░░░░   37.41% 
+🌃 Evening    190 commits    ██████░░░░░░░░░░░░░░░░░░░   26.13% 
+🌙 Night      107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+Tuesday      138 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+Wednesday    144 commits    █████░░░░░░░░░░░░░░░░░░░░   19.81% 
+Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+Friday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.35% 
+Saturday     71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
+Sunday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+PHP                      6 hrs 44 mins       ██████████████████░░░░░░░   74.94% 
+JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79% 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+
+🔥 Editors: 
+PhpStorm                 9 hrs               █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      9 hrs               █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -38,6 +81,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/10/2022 18:59:24 UTC
+ Last Updated on 15/10/2022 18:55:04 UTC
 <!--END_SECTION:waka-->
 
