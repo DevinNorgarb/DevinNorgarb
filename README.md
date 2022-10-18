@@ -5,7 +5,7 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C793%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C793%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,17 +50,17 @@ Sunday       114 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-PHP                      6 hrs 49 mins       ███████████████████░░░░░░   77.75% 
-JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
+PHP                      6 hrs 50 mins       ███████████████████░░░░░░   77.79% 
+JavaScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
 Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
 
 🔥 Editors: 
-PhpStorm                 8 hrs 46 mins       █████████████████████████   100.0%
+PhpStorm                 8 hrs 47 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 46 mins       █████████████████████████   100.0%
+Mac                      8 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,6 +81,6 @@ Python                   3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2022 19:14:26 UTC
+ Last Updated on 18/10/2022 19:11:43 UTC
 <!--END_SECTION:waka-->
 
