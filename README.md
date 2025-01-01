@@ -13,11 +13,11 @@
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,520 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 219 Public Repositories 
+> 📜 223 Public Repositories 
  > 
 > 🔑 52 Private Repositories 
  > 
@@ -76,6 +76,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 19:43:32 UTC
+ Last Updated on 01/01/2025 19:22:34 UTC
 <!--END_SECTION:waka-->
 
