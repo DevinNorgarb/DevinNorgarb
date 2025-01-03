@@ -5,9 +5,9 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C268%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C268%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,15 +48,17 @@ Sunday                   82046 commits       █████░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-sh                       1 hr 1 min          ████████████████████████░   96.01 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+sh                       1 hr 23 mins        ██████████████████████░░░   87.11 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+PHP                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Zsh                      1 hr 1 min          ████████████████████████░   96.01 % 
-Cursor                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Zsh                      1 hr 23 mins        ██████████████████████░░░   87.11 % 
+Cursor                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 💻 Operating System: 
-Mac                      1 hr 4 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -76,6 +78,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 19:22:34 UTC
+ Last Updated on 03/01/2025 19:25:03 UTC
 <!--END_SECTION:waka-->
 
