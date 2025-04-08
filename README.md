@@ -5,7 +5,7 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C300%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C301%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,13 +48,13 @@ Sunday                   82062 commits       █████░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-sh                       13 mins             █████████████████████████   100.00 % 
+sh                       1 hr 21 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      13 mins             █████████████████████████   100.00 % 
+Zsh                      1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -74,6 +74,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2025 19:26:32 UTC
+ Last Updated on 08/04/2025 19:37:29 UTC
 <!--END_SECTION:waka-->
 
