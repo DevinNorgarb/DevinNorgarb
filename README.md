@@ -5,7 +5,7 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C302%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C302%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -48,17 +48,17 @@ Sunday                   82062 commits       █████░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-sh                       2 hrs 3 mins        ███████████████████░░░░░░   77.33 % 
-JavaScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+sh                       1 hr 5 mins         ████████████████░░░░░░░░░   64.58 % 
+JavaScript               26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-Zsh                      2 hrs 3 mins        ███████████████████░░░░░░   77.33 % 
-Cursor                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Zsh                      1 hr 5 mins         ████████████████░░░░░░░░░   64.58 % 
+Cursor                   36 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
 
 💻 Operating System: 
-Mac                      2 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -78,6 +78,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 19:21:45 UTC
+ Last Updated on 15/04/2025 19:28:25 UTC
 <!--END_SECTION:waka-->
 
