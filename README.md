@@ -5,7 +5,7 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C303%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C303%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -48,15 +48,18 @@ Sunday                   82062 commits       █████░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-sh                       22 mins             ████████████████████████░   96.78 % 
-INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+sh                       36 mins             ███████████████████░░░░░░   75.35 % 
+JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-Zsh                      22 mins             ████████████████████████░   96.78 % 
-Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Zsh                      36 mins             ███████████████████░░░░░░   75.35 % 
+Cursor                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+Mac                      48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -76,6 +79,6 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2025 19:34:24 UTC
+ Last Updated on 18/04/2025 19:46:29 UTC
 <!--END_SECTION:waka-->
 
