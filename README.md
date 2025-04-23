@@ -5,9 +5,9 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C303%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C303%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,17 +48,17 @@ Sunday                   82035 commits       █████░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-sh                       16 mins             ███████████████░░░░░░░░░░   59.27 % 
-JavaScript               5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Text                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+sh                       23 mins             █████████████░░░░░░░░░░░░   52.73 % 
+JavaScript               12 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Text                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Zsh                      16 mins             ███████████████░░░░░░░░░░   59.27 % 
-Cursor                   11 mins             ██████████░░░░░░░░░░░░░░░   40.73 % 
+Zsh                      23 mins             █████████████░░░░░░░░░░░░   52.73 % 
+Cursor                   20 mins             ████████████░░░░░░░░░░░░░   47.27 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -78,6 +78,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 19:32:38 UTC
+ Last Updated on 23/04/2025 19:39:16 UTC
 <!--END_SECTION:waka-->
 
