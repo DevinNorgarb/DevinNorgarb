@@ -5,15 +5,15 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C547%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C550%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
-> 🏆 935 Contributions in the Year 2026
+> 🏆 936 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,19 +48,19 @@ Sunday                   83129 commits       █████░░░░░░�
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-sh                       6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.85 % 
-YAML                     4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+sh                       7 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
+YAML                     4 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 20 mins       ███████████████░░░░░░░░░░   59.15 % 
-Zsh                      6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.85 % 
+Cursor                   9 hrs 31 mins       ██████████████░░░░░░░░░░░   54.92 % 
+Zsh                      7 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
 
 💻 Operating System: 
-Mac                      12 hrs 45 mins      ████████████████████░░░░░   80.81 % 
-Linux                    3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Mac                      14 hrs 10 mins      ████████████████████░░░░░   81.76 % 
+Linux                    3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -80,6 +80,6 @@ TypeScript               7 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 20:11:48 UTC
+ Last Updated on 02/04/2026 20:18:13 UTC
 <!--END_SECTION:waka-->
 
