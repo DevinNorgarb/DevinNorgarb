@@ -5,30 +5,28 @@
 [![Devin Norgarb StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4993755)](https://stackoverflow.com/users/4993755/devin-norgarb)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C668%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,272 Contributions in the Year 2026
+> 🏆 1,285 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 261 Public Repositories 
  > 
-> 🔑 77 Private Repositories 
+> 🔑 79 Private Repositories 
  > 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      28 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Python                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Python                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 
@@ -38,6 +36,6 @@ Shell                    4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:36:16 UTC
+ Last Updated on 15/05/2026 20:26:19 UTC
 <!--END_SECTION:waka-->
 
