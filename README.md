@@ -19,10 +19,10 @@
 <table align="center">
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com?user=DevinNorgarb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DevinNorgarb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /></td>
+    <td><img src="./assets/stats.svg" alt="GitHub stats" /></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinNorgarb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></td>
+    <td colspan="2" align="center"><img src="./assets/top-langs.svg" alt="Top languages" /></td>
   </tr>
 </table>
 
