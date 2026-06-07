@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Devin Norgarb's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 89, Total Commits  : 1036, Total PRs: 91, Total Issues: 17, Contributed to (last year): 1</desc>
+        <title id="titleId">Devin Norgarb's GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 105, Total Commits  : 18096, Total PRs: 186, Total Issues: 23, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 87.2709039319381;
+        stroke-dashoffset: 46.165760254650046;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          A
         </text>
       
         </g>
@@ -159,10 +159,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
-      >89</text>
+      >105</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -174,10 +174,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
-      >1k</text>
+      >18.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -189,10 +189,10 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
-      >91</text>
+      >186</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -204,10 +204,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
-      >17</text>
+      >23</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -219,10 +219,10 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
-      >1</text>
+      >4</text>
     </g>
   </g>
     </svg>
