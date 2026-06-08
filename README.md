@@ -39,12 +39,27 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C812%20hrs%2040%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+Markdown                 5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+YAML                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+JSON                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+sh                       2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Bash                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 19:45:58 UTC
+ Last Updated on 08/06/2026 20:38:40 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
