@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Devin Norgarb</h1>
 <p align="center">Full-stack developer · Embedded systems · Home automation</p>
 <p align="center">
-  <a href="https://me.devsdev.com">Website</a> ·
+  <a href="https://devinn.org">Website</a> ·
   <a href="https://stackoverflow.com/users/4993755/devin-norgarb">Stack Overflow</a> ·
   <a href="https://github.com/DevinNorgarb">GitHub</a>
 </p>
