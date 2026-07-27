@@ -39,7 +39,9 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C035%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C553%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-416%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,11 +49,36 @@
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Markdown                 8 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Python                   4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-TypeScript               4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-JavaScript               3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Text                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Markdown                 9 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Python                   5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+JavaScript               3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+TypeScript               3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Text                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 hrs 2 mins (95.82%)
+
+✍️ 47,785 lines written by AI, 61 lines written by hand (99.87% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 320 AI Sessions, 826 AI Prompts
+
+Grok                     19,980 lines        ████████████████████░░░░░   80.88 % 
+Composer                 3,663 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Opus                     783 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Sonnet                   278 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 1,208 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -59,7 +86,7 @@ Text                     2 hrs 6 mins        ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 20:55:47 UTC
+ Last Updated on 27/07/2026 21:31:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
