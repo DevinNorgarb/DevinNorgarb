@@ -39,54 +39,16 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C571%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C572%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%2038%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Johannesburg
-
-💬 Programming Languages: 
-Markdown                 5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Python                   5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-TypeScript               5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-JavaScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-YAML                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 28 hrs 20 mins (92.8%)
-
-✍️ 32,181 lines written by AI, 40 lines written by hand (99.88% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 303 AI Sessions, 639 AI Prompts
-
-Grok                     7,411 lines         ███████████████░░░░░░░░░░   60.86 % 
-Composer                 3,171 lines         ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-Sonnet                   1,150 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Opus                     445 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 1,129 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-435%20hrs%209%20mins-blue?style=flat)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 21:15:17 UTC
+ Last Updated on 02/08/2026 21:00:34 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
