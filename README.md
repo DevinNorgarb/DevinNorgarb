@@ -39,16 +39,55 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C599%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C601%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%2029%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+Markdown                 7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Python                   3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+JavaScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Text                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 hrs 2 mins (96.78%)
+
+✍️ 57,549 lines written by AI, 5 lines written by hand (99.99% AI-written)
+
+🔤 494,986 Input Tokens, 404,177 Output Tokens
+
+💵 $7.30 Estimated AI Cost This Week
+
+🧠 171 AI Sessions, 650 AI Prompts
+
+Grok                     12,925 lines        ███████████████░░░░░░░░░░   60.26 % 
+Opus                     3,643 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Sonnet                   2,725 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Composer                 1,374 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Cursor                   783 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 2,982 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 20:56:24 UTC
+ Last Updated on 12/08/2026 21:09:40 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
