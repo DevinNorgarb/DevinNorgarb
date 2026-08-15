@@ -39,55 +39,16 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C610%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C615%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-473%20hrs%2038%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Johannesburg
-
-💬 Programming Languages: 
-Markdown                 6 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Python                   2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Text                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JavaScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Other                    1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 hrs 57 mins (97.64%)
-
-✍️ 25,299 lines written by AI, 2 lines written by hand (99.99% AI-written)
-
-🔤 570,715 Input Tokens, 570,715 Output Tokens
-
-💵 $10.01 Estimated AI Cost This Week
-
-🧠 202 AI Sessions, 692 AI Prompts
-
-Sonnet                   4,002 lines         ███████████░░░░░░░░░░░░░░   44.18 % 
-Opus                     2,426 lines         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-Composer                 1,548 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Cursor                   953 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Grok                     130 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,896 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-478%20hrs%2044%20mins-blue?style=flat)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 21:05:39 UTC
+ Last Updated on 15/08/2026 20:09:22 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
