@@ -39,9 +39,9 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C628%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C635%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-492%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-500%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,37 +49,37 @@
 🕑︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Python                   9 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Markdown                 8 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-JavaScript               3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Text                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Python                   11 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Markdown                 8 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Text                     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+JavaScript               3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Other                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 29 mins (98.93%)
+⏱ AI Coding Time: 38 hrs 59 mins (98.75%)
 
-✍️ 71,862 lines written by AI, 15 lines written by hand (99.98% AI-written)
+✍️ 82,473 lines written by AI, 27 lines written by hand (99.97% AI-written)
 
-🔤 3,935,678 Input Tokens, 4,071,203 Output Tokens
+🔤 4,293,696 Input Tokens, 4,455,559 Output Tokens
 
-💵 $71.59 Estimated AI Cost This Week
+💵 $75.38 Estimated AI Cost This Week
 
-🧠 345 AI Sessions, 1275 AI Prompts
+🧠 368 AI Sessions, 1486 AI Prompts
 
-Cursor                   13,044 lines        █████████░░░░░░░░░░░░░░░░   36.63 % 
-Opus                     11,032 lines        ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Sonnet                   5,080 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Grok                     3,846 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Composer                 2,403 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Cursor                   13,352 lines        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Grok                     13,351 lines        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Opus                     8,631 lines         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Sonnet                   5,080 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+GPT                      3,445 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 12,814 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 12,031 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -87,7 +87,7 @@ Composer                 2,403 lines         ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 20:34:41 UTC
+ Last Updated on 18/08/2026 20:43:19 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
