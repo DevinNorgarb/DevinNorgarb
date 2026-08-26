@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Devin Norgarb&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 109, Total Commits  : 19614, Total PRs: 639, Total Issues: 29, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 109, Total Commits  : 19614, Total PRs: 642, Total Issues: 29, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.948433263368614;
+        stroke-dashoffset: 38.94806935366717;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >639</text>
+      >642</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
