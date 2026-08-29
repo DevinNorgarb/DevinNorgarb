@@ -39,55 +39,16 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C718%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C725%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-586%20hrs%2049%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Johannesburg
-
-💬 Programming Languages: 
-Markdown                 13 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-TypeScript               8 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Kotlin                   5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-JavaScript               4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Image (png)              4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 59 hrs 46 mins (97.75%)
-
-✍️ 56,232 lines written by AI, 7 lines written by hand (99.99% AI-written)
-
-🔤 34,406,483 Input Tokens, 5,602,386 Output Tokens
-
-💵 $740.40 Estimated AI Cost This Week
-
-🧠 534 AI Sessions, 1599 AI Prompts
-
-Grok                     29,551 lines        ███████████████░░░░░░░░░░   60.05 % 
-Opus                     8,168 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Cursor                   6,091 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Composer                 5,036 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Fable                    358 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 8,592 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-595%20hrs%2017%20mins-blue?style=flat)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 02:48:59 UTC
+ Last Updated on 29/08/2026 22:25:43 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
