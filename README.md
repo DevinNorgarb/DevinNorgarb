@@ -43,12 +43,51 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-595%20hrs%2017%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Johannesburg
+
+💬 Programming Languages: 
+Markdown                 15 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Other                    6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+TypeScript               5 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Kotlin                   5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Python                   4 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 56 hrs 47 mins (97.71%)
+
+✍️ 47,907 lines written by AI, 7 lines written by hand (99.99% AI-written)
+
+🔤 36,967,086 Input Tokens, 4,710,474 Output Tokens
+
+💵 $803.25 Estimated AI Cost This Week
+
+🧠 414 AI Sessions, 1385 AI Prompts
+
+Grok                     23,041 lines        ███████████████░░░░░░░░░░   60.27 % 
+Opus                     10,901 lines        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Cursor                   3,732 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Fable                    358 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Composer                 189 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 5,997 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/DevinNorgarb/DevinNorgarb/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 22:25:43 UTC
+ Last Updated on 30/08/2026 22:50:58 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
